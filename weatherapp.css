@@ -1,0 +1,11 @@
+body{
+  margin: 7em 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 1em;
+  background-color: darkkhaki;
+}
+#city, #button{
+  font-size: 1.5em;
+}
